@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316465693114",
+    "firebase_url": "https://maruthy-3f413.firebaseio.com",
+    "project_id": "maruthy-3f413",
+    "storage_bucket": "maruthy-3f413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316465693114:android:11ec256436558aca239d83",
+        "android_client_info": {
+          "package_name": "sliit.maruthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316465693114-o4phjpjah9fo15nfmnhri8q4auo309mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXW6OQxmBuBNPOjpH_GI6kDeJey9aSMMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316465693114-o4phjpjah9fo15nfmnhri8q4auo309mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
